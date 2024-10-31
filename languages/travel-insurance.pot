@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Real TI <ti@seguroviagem.srv.br>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-30T09:14:39-03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: travel-insurance\n"
+
+msgid "Travel Insurance"
+msgstr ""
+
+
+msgid "Affiliates Program"
+msgstr ""
+
+
+msgid "Real Travel Insurance Plugin"
+msgstr ""
+
+
+msgid "Success to enter data"
+msgstr ""
+
+
+msgid "Error to enter data"
+msgstr ""
+
+
+msgid "Not yet an affiliate?"
+msgstr ""
+
+
+msgid "Real Travel Insurance Affiliate Program is focused on people who wish"
+msgstr ""
+
+
+msgid "to raise their profits"
+msgstr ""
+
+
+msgid "quickly, through their"
+msgstr ""
+
+
+msgid "contacts network"
+msgstr ""
+
+
+msgid "Sign up on our Affiliate Program"
+msgstr ""
+
+
+msgid "Register in"
+msgstr ""

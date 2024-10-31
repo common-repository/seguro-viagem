@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Real TI <ti@seguroviagem.srv.br>\n"
+"Language-Team: Brazilian Portuguese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-30T09:14:39-03:00\n"
+"PO-Revision-Date: 2024-08-30 09:17-0300\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: travel-insurance\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+
+msgid "Travel Insurance"
+msgstr "Real Seguro Viagem"
+
+
+msgid "Affiliates Program"
+msgstr "Programa de afiliados"
+
+
+msgid "Real Travel Insurance Plugin"
+msgstr "Real Seguro Viagem Plugin"
+
+
+msgid "Success to enter data"
+msgstr "Dados informados corretamente"
+
+
+msgid "Error to enter data"
+msgstr "Erro ao inserir dados"
+
+
+msgid "Not yet an affiliate?"
+msgstr "Ainda não é um afiliado?"
+
+
+msgid "Real Travel Insurance Affiliate Program is focused on people who wish"
+msgstr "O Programa de Afiliados da Real Seguro Viagem é voltado para pessoas que desejam"
+
+
+msgid "to raise their profits"
+msgstr "aumentar seus rendimentos"
+
+
+msgid "quickly, through their"
+msgstr "de forma simples e rápida, através de sua"
+
+
+msgid "contacts network"
+msgstr "rede de contatos"
+
+
+msgid "Sign up on our Affiliate Program"
+msgstr "Realize seu cadastro em nosso Programa de Afiliados"
+
+
+msgid "Register in"
+msgstr "Registre-se em"
